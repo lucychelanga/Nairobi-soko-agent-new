@@ -1,0 +1,6 @@
+{
+  "name": "Nairobi Soko Market Agent",
+  "description": "Autonomous AI market research and pricing agent for Nairobi agricultural markets powered by Genkit flows, Gemini AI reasoning, and Firestore price history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
